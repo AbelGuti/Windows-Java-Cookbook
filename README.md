@@ -1,4 +1,4 @@
-# learn_chef_iis
+# Windows-Java-Cookbook
 
 TODO: Enter the cookbook description here.
 
